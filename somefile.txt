@@ -1,0 +1,5 @@
+total 0
+drwxr-xr-x   4 tuomas  staff   136 Jan 30 12:21 .
+drwxr-xr-x  49 tuomas  staff  1666 Jan 30 12:20 ..
+drwxr-xr-x  10 tuomas  staff   340 Jan 30 12:21 .git
+-rw-r--r--   1 tuomas  staff     0 Jan 30 12:21 somefile.txt
